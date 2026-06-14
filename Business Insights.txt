@@ -1,0 +1,37 @@
+WALMART SALES ANALYSIS — KEY INSIGHTS
+
+1.REVENUE INSIGHTS:
+
+Total revenue across all branches: $322,966.75.
+Branch C is the top revenue generator ($110,568.71), outperforming A and B.
+Branches A and B are almost identical in revenue, differing by only $2.70.
+
+2.BRANCH PERFORMANCE:
+
+Branch C dominates in both revenue AND customer satisfaction (7.07 rating).
+Branch A sells the most units (1,859) but ranks 2nd in revenue. 
+Branch B is the weakest branch across revenue, units sold, and customer rating.
+
+3.PRODUCT INSIGHTS:
+
+Electronic Accessories is the #1 selling category (971 units).
+Health & Beauty is the lowest performing category (854 units) — 12% below top seller.
+
+4.PAYMENT BEHAVIOR:
+
+Ewallet is the most preferred method by transaction count (345 transactions).
+Cash generates the most revenue — meaning high-value purchases are made in cash.
+Credit Card is the least used method (311 transactions, $100,767 revenue).
+
+5.CUSTOMER INSIGHTS:
+
+Member customers generate 3.5% more revenue than Normal customers.
+Branch B's low rating (6.82) likely impacts repeat customer visits and long-term revenue.
+
+STRATEGIC RECOMMENDATIONS:
+
+Branch C leads in revenue and customer satisfaction.
+Branch B underperforms across all metrics — needs immediate attention.
+Health & Beauty category requires promotional push.
+Ewallet is most used, but Cash generates highest revenue.
+Loyalty members spend more — expand the membership program.
