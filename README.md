@@ -72,7 +72,7 @@ Detailed insights are available in:
 
 \*Files Included:
 
-\- Walmart Sales Data.xlsx
+\- Walmart Sales Data.csv
 
 \- walmart\_sales\_analysis.sql
 
